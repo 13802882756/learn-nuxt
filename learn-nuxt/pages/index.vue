@@ -3,7 +3,7 @@
     <div>
       <app-logo/>
       <h1 class="title">
-        learn-nuxt
+        Dox-Hub官网
       </h1>
       <h2 class="subtitle">
         Nuxt.js project
